@@ -24,7 +24,7 @@ ASSUSERNAME = getenv("ASSUSERNAME")
 # ---------------------------------------------------------
 # Vars For API End Pont.
 YTPROXY_URL = getenv("YTPROXY_URL", 'https://xyz.spotifytech.shop') ## E.G https://yt.okflix.
-YT_API_KEY = getenv("YT_API_KEY" , "77df1a8d9fbb262da15f54516027801f" ) ## get your secret key from @VNI0X
+YT_API_KEY = getenv("YT_API_KEY" , "" ) ## get your secret key from @VNI0X
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
@@ -69,8 +69,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/HEROKU_CLUB")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+LFluOCEUVMljYjQ9")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+KD-mef9xC7w2NWFl")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+b4xC-L8bAGozYmQ9")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -150,21 +150,21 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/4stxch.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/kubukz.png"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://files.catbox.moe/4stxch.jpg"
+    "PING_IMG_URL", "https://files.catbox.moe/kubukz.png"
 )
-PLAYLIST_IMG_URL = "https://files.catbox.moe/4stxch.jpg"
-STATS_IMG_URL = "https://files.catbox.moe/4stxch.jpg"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/4stxch.jpg"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/4stxch.jpg"
-STREAM_IMG_URL = "https://files.catbox.moe/4stxch.jpg"
-SOUNCLOUD_IMG_URL = "https://files.catbox.moe/4stxch.jpg"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/4stxch.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/4stxch.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/4stxch.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/4stxch.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/kubukz.png"
+STATS_IMG_URL = "https://files.catbox.moe/kubukz.png"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/kubukz.png"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/kubukz.png"
+STREAM_IMG_URL = "https://files.catbox.moe/kubukz.png"
+SOUNCLOUD_IMG_URL = "https://files.catbox.moe/kubukz.png"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/kubukz.png"
+SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/kubukz.png"
+SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/kubukz.png"
+SPOTIFY_PLAYLIST_IMG_URL = "https://files.catbox.moe/kubukz.png"
 
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
